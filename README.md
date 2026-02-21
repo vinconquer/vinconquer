@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">Frontend Engineer | Web Application Developer | Systems Builder</h3>
+<h3 align="center">Frontend | Web Application Developer | Website with wordpress</h3>
 
 ---
 
@@ -70,9 +70,9 @@ Web-based educational applications including word builders, grammar systems, and
 
 ## 📫 Connect With Me
 
-- Portfolio: (Add your website link here)
-- LinkedIn: (Add LinkedIn link)
-- Email: (Add professional email)
+- Portfolio:
+- LinkedIn: 
+- Email: 
 
 ---
 
